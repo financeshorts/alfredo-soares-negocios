@@ -1,0 +1,23 @@
+# Corpus gerado localmente — legendas e transcrições NÃO são versionadas.
+# Rode tools/baixar_legendas.sh para gerar na sua máquina.
+corpus/
+*.vtt
+*.srt
+videolist.tsv
+ids.txt
+indice.json
+
+# Empacotamento
+dist/
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini

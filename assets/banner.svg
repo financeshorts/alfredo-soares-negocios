@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" width="1280" height="420" role="img" aria-label="alfredo-soares-negocios — skill de frameworks de negócio">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A0E14"/>
+      <stop offset="55%" stop-color="#101720"/>
+      <stop offset="100%" stop-color="#0A0E14"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F5B429"/>
+      <stop offset="100%" stop-color="#E8722C"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F5B429" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#F5B429" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 L0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="420" fill="url(#bg)"/>
+  <rect width="1280" height="420" fill="url(#grid)"/>
+
+  <!-- curva de crescimento estilizada -->
+  <path d="M90 330 C 300 330, 420 300, 560 240 S 860 120, 1190 82"
+        fill="none" stroke="url(#accent)" stroke-width="3.5" stroke-linecap="round" opacity="0.85"/>
+  <circle cx="1190" cy="82" r="7" fill="#F5B429"/>
+  <circle cx="1190" cy="82" r="15" fill="none" stroke="#F5B429" stroke-opacity="0.35" stroke-width="2"/>
+
+  <!-- barra de acento -->
+  <rect x="90" y="96" width="76" height="5" rx="2.5" fill="url(#accent)"/>
+
+  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
+    <text x="90" y="164" font-size="52" font-weight="700" fill="#F2F5F8" letter-spacing="-1">
+      alfredo-soares-negocios
+    </text>
+    <text x="90" y="205" font-size="22" font-weight="400" fill="#8FA0B3">
+      Skill de frameworks de crescimento, vendas, canais e marca
+    </text>
+
+    <!-- chips de metadados -->
+    <g font-size="15" font-weight="600">
+      <rect x="90" y="238" width="152" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.10"/>
+      <text x="166" y="260" fill="#C6D2DE" text-anchor="middle">69 vídeos</text>
+
+      <rect x="254" y="238" width="152" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.10"/>
+      <text x="330" y="260" fill="#C6D2DE" text-anchor="middle">42 horas</text>
+
+      <rect x="418" y="238" width="196" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.10"/>
+      <text x="516" y="260" fill="#C6D2DE" text-anchor="middle">488 mil palavras</text>
+
+      <rect x="626" y="238" width="182" height="34" rx="17" fill="#F5B429" fill-opacity="0.14" stroke="#F5B429" stroke-opacity="0.35"/>
+      <text x="717" y="260" fill="#F5B429" text-anchor="middle">10 references</text>
+    </g>
+
+    <text x="90" y="330" font-size="15" fill="#5E7185">
+      Material de estudo não-oficial · sem vínculo com Alfredo Soares ou G4 Educação
+    </text>
+  </g>
+
+  <rect x="0" y="416" width="1280" height="4" fill="url(#fade)"/>
+</svg>
