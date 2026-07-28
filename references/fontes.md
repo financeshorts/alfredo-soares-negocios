@@ -1,6 +1,6 @@
 # Fontes
 
-Corpus: **69 vídeos**, ~42h, **487.747 palavras** de transcrição, extraídos das legendas oficiais do
+Corpus: **70 vídeos** (69 do canal + 1 participação externa), ~44h, **509.150 palavras** de transcrição, extraídos das legendas oficiais do
 canal [@canaldoalfredosoares](https://www.youtube.com/@canaldoalfredosoares) em julho de 2026 via
 `yt-dlp` (legendas `pt-orig`, sem download de vídeo).
 
@@ -26,6 +26,30 @@ gatilhos de geração de ideia e momentos de veredito, que alimentaram
 | **Anatomia de lançamento, arquitetura de canal** | [BASTIDORES de um LANÇAMENTO do G4](https://www.youtube.com/watch?v=RQdCWBx9VRY) |
 | Overpost, projeto 1000 ads, ritual de marketing | [Como batemos 7 MILHÕES em 24h](https://www.youtube.com/watch?v=YcAsGGnYwcU) |
 | Marca de consumo, hype, sampling, colab | [Caso DOT](https://www.youtube.com/watch?v=5pX265p-NoY) |
+
+## Conteúdo OUT — participações em canais de terceiros
+
+A coleta original cobriu **apenas o canal dele** (conteúdo IN). Todas as participações em podcasts e
+entrevistas de outros canais ficaram de fora — o que é uma lacuna reconhecida, já que ele próprio
+trata o conteúdo OUT como metade da estratégia (ver [conteudo-e-marca.md](conteudo-e-marca.md)).
+
+Episódios OUT já incorporados:
+
+| Vídeo | Canal | Duração | Transcrição |
+|---|---|---|---|
+| [24 HORAS COM ALFREDO SOARES](https://www.youtube.com/watch?v=bXYnTmjo5AU) | PrimoCast | 109 min | 21.403 palavras **[lido]** |
+
+**Por que esse episódio importa:** é a maior transcrição de todo o corpus (o maior do canal dele tem
+18.158 palavras) e trouxe material que não existia em nenhum vídeo do canal próprio — a autodefinição
+de *criativo matemático*, a máquina de conversão por distribuição de lead, a escada de serviço →
+riqueza, arbitragem de valor de ativos, e a anatomia completa de uma negociação fechada ao vivo.
+
+Formato de entrevista tende a extrair o que o canal próprio não extrai: um host faz pergunta
+estruturada e insiste; no canal próprio, ele conduz e frequentemente desvia para o convidado.
+
+**Lacuna que permanece:** não foi feita uma varredura sistemática de todas as aparições dele em
+canais de terceiros. Para ampliar, buscar por nome no YouTube, filtrar por duração longa e rodar o
+mesmo pipeline de `tools/`.
 
 ## Corpus completo
 

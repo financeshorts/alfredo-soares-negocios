@@ -188,6 +188,84 @@ Padrão observável nas ligações que faz ao vivo nos episódios:
 
 ---
 
+## Máquina de conversão: o segredo é a distribuição, não a geração
+
+Detalhado em [24 HORAS COM ALFREDO SOARES | PrimoCast](https://www.youtube.com/watch?v=bXYnTmjo5AU).
+
+> "O segredo da máquina de conversão, diferente do que a galera pensa... aquilo ali é um insumo. O que processa esse insumo é a distribuição de lead."
+
+Gerar 15-20 mil leads/mês não é a vantagem. A vantagem é **para quem cada lead vai**.
+
+### Nota de qualificação
+
+Todo lead recebe uma nota composta por:
+- Número de sócios
+- Número de funcionários
+- Faturamento
+- **Nível de consciência** — já fez uma imersão? já participa de comunidade de negócio? já sabe o que vale uma mentoria?
+
+> "Quanto menos esforço, mais eu priorizo."
+
+O raciocínio econômico: quem já tem consciência alta custa menos para converter, então o custo de venda cai e o lead sobe na fila.
+
+> "O cara vende muito, mas toma prejuízo, porque gasta demais — muito time, muito esforço, muito desconto."
+
+### Squad por canal, não por região
+
+Cada canal que performa bem ganha **jornada e vendedor próprios**: um squad só para lead de evento, uma pessoa específica para direct, squads separados para o Instagram de cada sócio.
+
+> "Lead certo, no canal certo, com vendedor certo."
+
+### Social selling: ativo e passivo
+
+| | Gatilho | Fluxo |
+|---|---|---|
+| **Passivo** | CTA no stories/DM — a pessoa chama | vai direto para o vendedor |
+| **Ativo** | curtiu uma foto, comentou num post | time puxa conversa → SDR → closer |
+
+O ativo é o que a maioria não faz: transformar reação em conversa antes que ela esfrie.
+
+---
+
+## Venda de alto ticket: não empurrar
+
+> "Quanto mais eu empurrar, mais eu subo a expectativa dele."
+
+Em ticket alto, pressão não acelera — infla expectativa e cria problema de entrega depois. Se o nível
+de consciência já é alto, o trabalho é **antecipar a decisão**, não forçá-la.
+
+### Benefício em vez de desconto
+
+A engenharia que ele usa para antecipar uma venda sem queimar margem:
+
+1. Reconhecer que antecipar tem valor matemático real (receber hoje o dinheiro de dali a dois meses)
+2. **Não dar desconto** — desconto come a margem do produto
+3. Criar um **benefício pago com verba de marketing**, personalizado com alguma informação do cliente
+
+> "Não como a margem do meu produto, eu uso verba de marketing e não dou desconto. Porque o valuation não é calculado em cima do gasto de marketing, ele é calculado em cima do lucro."
+
+Exemplo real do episódio: descobriu que o pai do cliente era fã de Senna → ofereceu camarote de F1
+para os dois. Escolheu **sábado**, o ingresso mais barato — porque o que importa é estar lá com o
+pai, não o dia.
+
+---
+
+## Anatomia de uma negociação dele
+
+A ligação para fechar um patrocínio, no mesmo episódio, tem a estrutura completa:
+
+1. **Ancoragem** — "estou te botando um negócio que vale 120, 150. Por 90."
+2. **A conta do lado do cliente** — "é 3% do que você faturou nos últimos três meses"
+3. **Redução de risco** — "se não performar, eu faço uma entrega no meu YouTube depois"
+4. **Fé antes de planilha** — *"eu não preciso que você entenda. Eu preciso que você acredite."*
+5. **Empilhar valor** — sugere ao cliente contratar também outro criador na mesma semana, para concentrar o efeito
+6. **Urgência com validade** — "toda coisa que é muito boa tem um tempo de validade, então seja rápido"
+7. **Prazo explícito** — "três horas, você tem 20 minutos"
+
+Fechou no mesmo dia.
+
+---
+
 ## Modelo de negócio como alavanca de venda
 
 > "A galera negligencia o poder do modelo de negócio."

@@ -103,6 +103,36 @@ e energia psicológica do time — e sustenta melhor.
 
 ---
 
+## Lugar de potência
+
+O conceito que ele usa para decidir onde gasta o próprio tempo, em
+[24 HORAS | PrimoCast](https://www.youtube.com/watch?v=bXYnTmjo5AU):
+
+> "Não é sobre o que você gosta de fazer. É o que você é bom."
+
+A distinção importa porque as duas coisas se confundem: gostar de produzir conteúdo não significa que
+o seu conteúdo dá resultado. O critério é **resultado**, e o caminho é de trás para frente — escolher
+o processo que gera resultado, mesmo que não seja o processo preferido.
+
+> "O craque é quando esse cara é bom no que ele gosta."
+
+**Como liberar tempo para o lugar de potência:** terceirizar tudo que é terceirizável — começando
+pelas tarefas que consomem tempo e não exigem você. Mais tempo alocado no lugar certo gera mais
+resultado, e o resultado paga a terceirização.
+
+**Estrutura de apoio como empresa:** ele descreve o time pessoal com um objetivo declarado — mantê-lo
+no lugar de potência. A secretária confirma agenda e já coloca no carro o que aquele compromisso
+exige, sem ele precisar lembrar.
+
+**Como escolher sócio a partir disso:** a complementaridade que ele descreve na própria sociedade —
+um vê longe e lê pessoas, outro traduz planilha e processo em velocidade, ele tem a ideia, negocia e
+conecta. Cada um opera no próprio lugar de potência.
+
+E sobre sociedade: *"sociedade é você estar desalinhado, mas comprometido."* Divergência é esperada;
+o que não pode faltar é compromisso com o mesmo destino.
+
+---
+
 ## Identidade define decisão
 
 Framework usado ao aconselhar uma arquiteta a virar founder de tecnologia

@@ -112,6 +112,48 @@ largado.
 
 ---
 
+## Marqueteiro ≠ vendedor
+
+Distinção que ele faz questão de marcar, dizendo-se mais marqueteiro do que vendedor:
+
+> "Marqueteiro é o que sabe criar desejo, criar necessidade, criar vontade. É o que domina a jornada."
+
+- **Pensar em vendas** = pensar na **negociação**
+- **Pensar em marketing** = pensar na **jornada**
+
+E o critério de conteúdo que sustenta isso: ser **"mais interessante do que interesseiro"** — sair do
+próprio conteúdo para aparecer no conteúdo dos outros, construir audiência, e só então trazer essa
+audiência para o negócio.
+
+---
+
+## Arbitrar o valor do dinheiro
+
+> "Marketing é conta. Não é sobre ser maneirinho, é sobre dar resultado."
+
+O caso trabalhado em [24 HORAS | PrimoCast](https://www.youtube.com/watch?v=bXYnTmjo5AU), com uma
+marca de água de coco que comprou 10 ingressos de Fórmula 1 (3 dias cada, ~R$ 50 mil):
+
+| Dia | Uso | Lógica |
+|---|---|---|
+| **Sexta** | 6 clientes + 4 leads | prova social — a proporção é intencional (ver *emboscada*, acima) |
+| **Sábado** | leads + produtores de conteúdo | dia com mais movimento, melhor para captura |
+| **Domingo** | trocar ingresso por conteúdo de influenciador | o ingresso vale mais que dinheiro para quem quer estar lá |
+
+Quando ficou difícil achar influenciador (mercado aquecido), o cliente quis cancelar. A saída:
+**vender os ingressos de domingo**, que estavam valendo R$ 20-25 mil cada — o que pagaria a ação
+inteira de sexta e sábado.
+
+> "Se você vender os 10 ingressos de domingo, a ação de sexta e sábado te custou zero."
+
+**Truque de multiplicação:** cada produtor de conteúdo leva **duas camisas**. Grava com uma, troca,
+grava com a outra — e o conteúdo do dia rende dois dias de publicação.
+
+O princípio geral: **que ativos eu tenho que arbitram valor?** Ingresso, acesso, palco, bastidor e
+convivência frequentemente valem mais para o outro lado do que o dinheiro equivalente.
+
+---
+
 ## Rede de influência
 
 > "Eu não faço marca só pro meu cliente. Eu faço marca para quem influencia ele, para quem leva a informação para ele, para quem quebra a objeção dele."

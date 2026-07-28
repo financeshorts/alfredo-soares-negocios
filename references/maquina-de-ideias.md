@@ -194,6 +194,48 @@ Ele raramente entrega uma ideia isolada. Encadeia:
 
 ---
 
+## Cardápio de ideias, não a ideia mirabolante
+
+Correção que ele faz num alinhamento de estratégia de marca:
+
+> "Não vamos ser refém da ideia mirabolante. Vamos criar um cardápio de ideias para quando o resultado acontecer, a gente já saber o que fazer, quem contratar, onde distribuir."
+
+Apostar numa ideia única cria dependência de ela funcionar. Um cardápio pronto — com execução,
+fornecedor e canal já mapeados — permite reagir na hora em que a oportunidade aparece.
+
+Combina diretamente com *marketing de oportunidade*: quem vence é quem acerta o timing, e só acerta
+timing quem já tem o cardápio pronto.
+
+---
+
+## Dominar um território antes de expandir
+
+Sequência que ele desenha para uma marca de bebida:
+
+1. **Apropriar-se de um território físico e simbólico** — as 10 principais praias de surf, via parceria com os quiosques. *"Onde tem onda boa, tem [a marca]."*
+2. **Esportes satélite** — expandir para os esportes adjacentes de praia
+3. **Academia** — o próximo contexto de consumo
+4. **Consumo do dia a dia** — só no fim, o mercado amplo
+
+A lógica: mercado amplo é caro de abrir. Dominar um território estreito primeiro cria associação
+mental, e a associação é o que carrega a expansão depois.
+
+---
+
+## Advisory como laboratório
+
+Movimento pessoal dele que também é conselho de carreira:
+
+> "Eu estou sendo remunerado para estudar. O cara me paga para eu testar minha ideia no mercado dele."
+
+Formato: 4 a 5 reuniões por ano com cada marca aconselhada — curtas, para direcionar e conectar.
+
+O motivo declarado não é o honorário: é **não enviesar o repertório**. Se o conhecimento só é testado
+no próprio setor, ele deixa de ser transferível. Testar em indústria, serviço e varejo é o que mantém
+o repertório vendável.
+
+---
+
 ## E depois: matar
 
 O que separa o método dele de um brainstorm é o corte. Depois de gerar, ele volta e elimina —

@@ -67,6 +67,81 @@ com enquadramento de exclusividade.
 
 ---
 
+## A escada de serviço → riqueza
+
+Sequência explícita que ele descreve como a própria trajetória, em
+[24 HORAS | PrimoCast](https://www.youtube.com/watch?v=bXYnTmjo5AU):
+
+```
+1. Você presta um serviço
+2. O serviço gera um resultado
+3. Você usa tecnologia para ganhar eficiência operacional na entrega
+4. Você cria um modelo de negócio que ATRIBUI esse resultado à sua remuneração
+5. O posicionamento passa a te valorizar
+6. Canal de aquisição e distribuição escalam
+```
+
+O degrau 4 é onde quase todo negócio de serviço trava:
+
+> "Todo cara de serviço que conseguiu usar tecnologia e criar software deu um jeito de atribuir resultado ao que ele faz. E aí o modelo de negócio vai ditar o quão rico você vai ser."
+
+Por quê: remuneração atrelada a resultado torna o ganho **exponencial em relação ao esforço** — mesmo
+esforço, retorno múltiplo. Remuneração por serviço é linear.
+
+---
+
+## Custo e preço não são a mesma coisa
+
+> "O preço dá para pagar, mas o custo é alto."
+
+**Preço** é o que se cobra ou se paga em dinheiro. **Custo** é o que se perde para conseguir aquilo —
+tempo, presença, família, saúde.
+
+Exemplo dele: a palestra de fim de semana tem preço que compensa (cobra o dobro), mas o custo de não
+estar em casa é alto. A decisão sai da comparação dos dois, não só do preço.
+
+Relacionado — o playbook de precificação de palestra que ele descreve ter criado:
+- valor base durante a semana; **dobro** no fim de semana
+- faixa maior acima de ~2 horas de voo, sempre **mais logística**
+- condição de ir e voltar no mesmo dia
+- flexibiliza quando o evento serve de canal para o próprio negócio
+
+---
+
+## Princípios com dinheiro
+
+Ele menciona ter escrito 25 princípios pessoais sobre dinheiro ao longo dos anos. Os que abre no
+episódio:
+
+**Ressignifique o zero.** Ganhou 10 milhões? Dez passa a ser o novo zero. Ver 11 na conta significa
+ter 1, não 11. Nunca se entra no principal. *(É a "regra do novo zero", acima, formulada de outro jeito.)*
+
+**Viva o dinheiro.** Ter uma casa e um carro é viver o dinheiro, não perdê-lo. Acumular sem usufruir
+não é estratégia, é medo. Mas viver é decisão de cabeça, não de emoção.
+
+**Tenha mais prazer em ver o dinheiro construindo do que parado no banco.** Dinheiro alocado em algo
+que gera vale mais que saldo confortável.
+
+Complementar: a conta de independência que ele descreve é **replicar o custo de vida em camadas** —
+tanto de aluguel, tanto de dividendo, tanto de outras rendas — até cada camada cobrir sozinha o custo
+mensal.
+
+---
+
+## Humildade intelectual como ferramenta financeira
+
+Ele conta ter perseguido a meta de 100 imóveis até um mentor apontar que existiam instrumentos
+melhores para o mesmo fim. A reação:
+
+> "Talvez eu esteja com um target que está sendo alimentado pelo meu ego e não pela estratégia."
+
+Mudou a estratégia na hora. O princípio que enuncia: *"não quero ter razão, quero ser feliz."*
+
+**Aplicação prática:** toda meta numérica de patrimônio merece a pergunta — isso é estratégia ou é
+placar? Metas de ego costumam vir de escassez antiga, não de análise.
+
+---
+
 ## Modelo de negócio é alavanca, não detalhe
 
 > "A galera negligencia o poder do modelo de negócio."

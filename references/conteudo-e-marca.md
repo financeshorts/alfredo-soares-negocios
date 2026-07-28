@@ -230,6 +230,56 @@ E o teste correto: rodar **coorte** — mesmo carrinho em locais diferentes, med
 
 ---
 
+## Repetir o que funciona > falar novidade
+
+Correção que ele faz num alinhamento de marca depois de um patrocínio de evento:
+
+> "Não é sobre falar novidade, é sobre repetir o que funciona."
+
+O conteúdo capturado num evento **não serve só durante o evento**. A orientação foi reverberar por
+30-60 dias depois: o material continua útil o ano inteiro, e a maioria das marcas o descarta assim
+que o evento acaba.
+
+---
+
+## Agenda de produção + captura contínua
+
+O arranjo que ele descreve:
+
+- **2 a 3 horas por semana** bloqueadas na agenda só para gravar conteúdo produzido
+- **Captura o tempo todo** — alguém filmando reunião, ligação, deslocamento
+- Anota ideias ao longo da semana e grava em lote quando abre uma janela
+
+E o argumento para quem diz não ter tempo:
+
+> "Gravar conteúdo é igual estudar. Você organiza as ideias, se testa, treina a oratória. Grava mesmo que você não poste."
+
+**Tempo morto vira produção:** ele conta ter contratado motorista depois de calcular que o tempo de
+dirigir, estacionar e esperar valet virava conteúdo — e que responder caixinha de perguntas era o
+formato que mais convertia para o negócio.
+
+---
+
+## Coisas não são conteúdo
+
+Critério editorial que ele aplica ao próprio perfil:
+
+> "Dificilmente vocês vão me ver falando de coisas, de conquistas no meu perfil."
+
+Quando quis usar objetos como conteúdo, transformou em **projeto com narrativa** (uma coleção com
+critério declarado e um parceiro), não em ostentação avulsa. A diferença é ter uma tese por trás.
+
+---
+
+## Métricas visuais mudam comportamento
+
+> "Métrica exposta muda comportamento."
+
+Telas com números à vista no escritório funcionam porque confrontam. Métrica guardada no celular ou
+numa planilha que ninguém abre não gera ação — ninguém é confrontado por ela.
+
+---
+
 ## Marketing de oportunidade
 
 Como empresa pequena compete:

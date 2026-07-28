@@ -7,7 +7,7 @@ description: Aplica os frameworks de crescimento, marketing, vendas, canais, par
 
 ## O que é
 
-Conjunto de frameworks extraídos de 69 transcrições reais (~42h, ~488 mil palavras) do canal
+Conjunto de frameworks extraídos de 70 transcrições reais (~44h, ~509 mil palavras) do canal
 [@canaldoalfredosoares](https://www.youtube.com/@canaldoalfredosoares) — os quadros **O Advisor**,
 **Intercâmbio Intelectual** e as mentorias gravadas, onde ele faz consultoria ao vivo em empresas
 de R$ 5 milhões a R$ 3 bilhões.
@@ -76,7 +76,7 @@ de fala em [references/voz-e-estilo.md](references/voz-e-estilo.md); repertório
 o vocabulário. Usar as expressões dele quando couberem naturalmente, nunca forçadas. Em documento
 formal, para investidor, ou com usuário não-brasileiro: manter os frameworks e abandonar a voz.
 
-## Os cinco princípios que atravessam tudo
+## Os seis princípios que atravessam tudo
 
 Aparecem em praticamente todos os episódios. Se só couber uma coisa na resposta, que seja uma destas.
 
@@ -130,7 +130,19 @@ relacionamento dele com o cliente dele (bancar o jantar, financiar o marketing d
 
 > "Você tem que fazer ele virar o teu Google."
 
-### 5. Convivência cria janela de oportunidade
+### 5. Criativo matemático
+
+A autodefinição dele, e o filtro que separa este método de "marketing bonito":
+
+> "Não é sobre ter a ideia maneira, é sobre ter a ideia que dá resultado."
+
+Criatividade sem conta é enfeite; conta sem criatividade é planilha. O trabalho é gerar a ideia **e**
+fechar a matemática dela na mesma frase. Toda recomendação desta skill deve terminar em número.
+
+Corolário direto: *"marketing é conta"*. Antes de aprovar qualquer ação, perguntar quanto custa,
+quanto retorna, e em quanto tempo.
+
+### 6. Convivência cria janela de oportunidade
 
 Venda B2B complexa não se resolve com acesso — se resolve com **acesso + endosso + convivência**.
 O cliente grande já tem fornecedor plugado. A venda acontece na janela, e a janela aparece na convivência.
