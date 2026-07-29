@@ -18,6 +18,145 @@ na performance.
 
 ---
 
+## Autoridade é o que os outros falam de você
+
+O núcleo da tese dele sobre presença digital, em
+[Como Pessoas Comuns Viram Autoridades na Internet | BrunetCast](https://www.youtube.com/watch?v=nfRsgSKD6p8):
+
+> "A autoridade não é o que você fala de você. A autoridade é o que os outros falam de você."
+
+Quem fala de si mesmo está fazendo propaganda. Existe gente com centenas de milhares de seguidores de
+quem **ninguém fala** — conhecida, mas sem autoridade.
+
+**Consequência para o conteúdo:** não é sobre falar do que você vende. É sobre falar **o que você
+pensa, quem você é, no que acredita**.
+
+> "As pessoas que você atrai são as pessoas com quem você provavelmente vai fazer negócio."
+
+E o negócio pode não ter relação nenhuma com o que você vende — alguém te conhece, acha relevante o
+que você fala, e traz uma oportunidade de outra natureza.
+
+### Público ≠ famoso
+
+> "O poder e o valor está em você se tornar alguém público, não necessariamente alguém famoso."
+
+E a distinção que separa isso de vaidade:
+
+> "Ser relevante para 100 pessoas é muito mais poderoso financeiramente do que ser conhecido por 10.000."
+
+A analogia dele: o promoter de balada era a pessoa mais conhecida da adolescência de todos — e isso
+não enriqueceu ninguém.
+
+### A autoridade precisa ser no que você vende
+
+Armadilha frequente: ficar conhecido por um tema que não é o seu negócio.
+
+> "Não adianta eu ser autoridade por causa da minha relação com a minha filha. Eu não vendo produto de paternidade."
+
+Se alguém que vende roupa fica famoso por relógio, precisa investir em ser autoridade **em roupa** —
+senão a fama não valoriza o produto. E o inverso também custa: *"quanta gente tem relevância nacional
+mas não tem moral nenhuma dentro do próprio mercado."*
+
+Por isso a [escada de relevância](#escada-de-relevância) começa no **segmento**, não no país.
+
+### Os retornos concretos de ser referência
+
+O que ele lista como ganho tangível, e que serve de argumento de investimento:
+
+- É convidado para eventos que hoje paga para ir
+- Acessa pessoas com muito menos esforço
+- O cliente escuta mais
+- Gasta muito menos para lotar um evento ou uma sala
+- Fecha parceria com muito menos atrito
+
+---
+
+## Estratégia vs tática em conteúdo
+
+Distinção que ele faz questão de corrigir:
+
+Falar do seu produto no Instagram é **tática**, não estratégia. A estratégia está acima:
+
+> "Com quem eu quero me conectar, como eu quero ser visto, como quero ser lembrado, onde quero chegar."
+
+Definida a estratégia, ela gera as táticas — colab, presença em grupo, formato, canal.
+
+E o corolário sobre presença em qualquer ambiente (evento, grupo, mentoria):
+
+> "O fato de você estar aqui é estratégico. Agora, se você não usar taticamente o fato de estar aqui, você não extrai valor."
+
+**Decisão estratégica se pensa; decisão tática se executa.** Ele conta ter gravado 15 episódios antes
+de lançar o canal — para definir identidade, comunicação e cadência. *"Não quero fazer voo de galinha."*
+Já no tático, velocidade é a virtude: quanto mais preparado para reagir, menos se acumula.
+
+---
+
+## Extrair valor: o mesmo tempo rende diferente
+
+O exemplo mais forte do corpus sobre produtividade. Os três sócios passaram **as mesmas 12 horas** no
+mesmo evento de três dias. O que ele saiu levando:
+
+- dezenas de horas de conteúdo bruto
+- centenas de fotos em alta resolução
+- ~10 horas de mentoria documentada (matéria-prima para um livro)
+- 2 episódios para o canal próprio
+- aparições em 3 canais de terceiros
+- mais de 10 colabs
+
+> "O esforço foi o mesmo. No final do dia não é sobre quanto você trabalha e o seu comprometimento — é qual a sua estratégia para extrair valor."
+
+**O checklist que ele passa para quem participa de qualquer evento:**
+- fez um review público do que aprendeu?
+- levou os aprendizados para um *all-hands* com o time?
+- virou vlog do dia 1 e do dia 2?
+- virou carrossel/dump?
+- abriu uma live com alguém de lá?
+- gravou um react?
+
+> "É um jogo de produtividade, não é um jogo de comprometimento. Trabalhei 10 horas — qual resultado gerou?"
+
+---
+
+## Coragem vem antes de disciplina
+
+> "A internet, a primeira coisa que ela exige é coragem."
+
+Porque vem crítica e vergonha. Ele diz nunca ter assistido a um conteúdo próprio nem ouvido um podcast
+seu — e mesmo assim publica. Depois da coragem, disciplina; e consistência resolve o resto.
+
+### Sobre métrica de vaidade
+
+O reenquadramento que ele usa quando um post performa mal:
+
+> "O pouco na internet é 30, 70 pessoas. Qual foi a última vez que você panfletou para 500 pessoas?"
+
+E o desdobramento invisível: o conteúdo frequentemente chega ao decisor por print no grupo de WhatsApp
+— sem contar view, sem contar like. *"O cara que tinha que ver, viu."*
+
+Contraponto honesto que aparece no mesmo episódio: quem tem número grande se acostuma e passa a
+reclamar de audiência que antes celebraria. Metrificar bem é comparar com o canal certo, não com o
+próprio recorde.
+
+---
+
+## Definir o output do conteúdo
+
+Antes de decidir formato, declarar **o que o conteúdo deve comunicar**. Ele enuncia o próprio:
+leveza, criatividade, conectar ideias com pessoas e fazer isso dar dinheiro, estar em movimento,
+gerar valor para quem conhece.
+
+E o que deliberadamente **não** quer comunicar: poder.
+
+> "Coisas, para mim, são cenário."
+
+Carro, relógio e ambiente aparecem — mas ele não fala quanto custam. Definido o output, a rotina é
+lida à luz dele: o que dessa rotina faz a pessoa chegar nessa conclusão?
+
+**Termômetro externo:** ele descreve usar a esposa como filtro editorial. Quando ela diz que está
+"profissional demais", ele volta ao vídeo de selfie para reumanizar.
+
+---
+
 ## Conteúdo IN e OUT
 
 > "Rede social é o que você fala e o que falam de você."

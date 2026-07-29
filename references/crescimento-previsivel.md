@@ -78,6 +78,58 @@ Se não existe, a área é de pagar contas, não de gerar lucro.
 
 ---
 
+## Contrate o melhor no seu principal canal de aquisição
+
+O framework mais acionável do corpus, de
+[BrunetCast](https://www.youtube.com/watch?v=nfRsgSKD6p8). A regra em uma linha:
+
+> Descubra de onde vem a maioria dos seus clientes — e coloque nesse lugar o melhor profissional que você conseguir pagar.
+
+**O argumento que ele usa para quebrar a objeção de custo:**
+
+> "Você confia o seu patrimônio a um assessor júnior? Então por que no marketing, que também é investimento, você quer deixar com um cara júnior?"
+
+E a matemática de alocação de recurso: dê R$ 300 mil de orçamento a um profissional de R$ 10 mil e ele
+aloca com o conhecimento que tem. Dê o mesmo orçamento a alguém muito mais caro e o resultado é
+desproporcional — porque **a gestão do recurso é diferente**, não o orçamento.
+
+**A cadeia que justifica pagar caro por qualidade de produção:**
+
+```
+áudio/produção melhora → marca melhora → desconto diminui
+                                       → cliente decide mais rápido
+conteúdo melhora → alcance orgânico cresce → audiência cresce → vende mais
+```
+
+> "Se ele melhorar 2% o meu negócio, quanto eu faturei mais? Está barato."
+
+**Como ele resolveu na prática:** perguntou ao fornecedor de audiovisual quanto ele lucrava por ano e
+garantiu esse valor para ter dedicação integral — comprando a operação em vez de contratar um
+freelancer.
+
+**O erro de enquadramento:** *"99% das pessoas olham isso como custo."* Marketing é investimento; o
+teste é o retorno, não a linha de despesa.
+
+---
+
+## Não sente em cima da estratégia que funciona
+
+> "Cuidado para não sentar em cima da tua estratégia porque ela dá certo."
+
+As frases que ele identifica como bloqueio cultural à inovação — e que soam como sabedoria:
+
+- *"sempre funcionou assim"*
+- *"é assim que meu negócio funciona"*
+- *"é isso que meu cliente quer"*
+
+> "São frases que culturalmente, pro teu time, vão barrar a inovação."
+
+Empresas criam **verdades absolutas** a partir do que funcionou uma vez. A pergunta corretiva não é
+*"como eu melhoro isso?"* — é **"como eu vou para outro nível?"**. Melhorar mantém a régua; mudar de
+nível troca a régua.
+
+---
+
 ## Competência é buscar eficiência quando há dinheiro
 
 > "Ser criativo, buscar eficiência, fazer as coisas barato quando está apertado, é mole."

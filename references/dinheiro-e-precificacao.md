@@ -128,6 +128,28 @@ mensal.
 
 ---
 
+## Permuta é produção de lucro, não desconto
+
+Cálculo que ele abre em [BrunetCast](https://www.youtube.com/watch?v=nfRsgSKD6p8): com margem de ~30%,
+fechar R$ 2 milhões em permuta equivale a faturar cerca de R$ 7 milhões — porque o valor permutado
+entra praticamente como lucro.
+
+Dois ganhos simultâneos:
+1. Você vende para alguém que provavelmente não compraria
+2. Você adquire o que precisava sem gastar caixa
+
+> "Crescimento não está só em vendas. Crescimento também está em gestão."
+
+E a disciplina que ele descreve como identidade, não como aperto:
+
+> "Eu pedia desconto quando não tinha dinheiro. Hoje que eu tenho, eu peço permuta."
+
+A sequência de negociação que ele enuncia: primeiro pressiona **preço**, depois **forma de pagamento**,
+e só no fim pede **cashback** — inclusive em categorias onde ninguém pede. *(Ver o financeiro como
+fábrica de lucro em [crescimento-previsivel.md](crescimento-previsivel.md).)*
+
+---
+
 ## Humildade intelectual como ferramenta financeira
 
 Ele conta ter perseguido a meta de 100 imóveis até um mentor apontar que existiam instrumentos

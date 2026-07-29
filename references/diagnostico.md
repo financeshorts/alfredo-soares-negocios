@@ -43,6 +43,25 @@ olhar" indica que a gestão não é orientada por aquele indicador.
 
 ---
 
+## Etapa 2b — Caçar as verdades absolutas
+
+Antes de propor qualquer coisa, ouvir as frases que a empresa repete como se fossem lei. São o
+principal bloqueio à mudança, e soam como experiência acumulada:
+
+| Frase | O que costuma esconder |
+|---|---|
+| "sempre funcionou assim" | ninguém testou outra hipótese desde então |
+| "é assim que meu negócio funciona" | crença virou processo |
+| "é isso que meu cliente quer" | não foi verificado com o cliente recentemente |
+| "não temos tempo para isso" | não foi priorizado, e ninguém é dono daquilo |
+| "isso é essência, não posso terceirizar" | o dono é gargalo de uma função terceirizável |
+
+> "São frases que culturalmente, pro teu time, vão barrar a inovação."
+
+A pergunta corretiva não é *"como eu melhoro isso?"* e sim **"como eu vou para outro nível?"**.
+
+---
+
 ## Etapa 3 — Ver a operação
 
 Ele quase sempre pede para andar pelo escritório antes de aconselhar.
