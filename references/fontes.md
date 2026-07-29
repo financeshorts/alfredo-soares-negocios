@@ -1,11 +1,11 @@
 # Fontes
 
-Corpus: **70 vídeos** (69 do canal + 1 participação externa), ~44h, **509.150 palavras** de transcrição, extraídos das legendas oficiais do
+Corpus: **106 vídeos** — 69 do canal dele + 37 aparições em canais de terceiros — ~95h, **1.072.280 palavras** de transcrição, extraídos das legendas oficiais do
 canal [@canaldoalfredosoares](https://www.youtube.com/@canaldoalfredosoares) em julho de 2026 via
 `yt-dlp` (legendas `pt-orig`, sem download de vídeo).
 
-Marcados com **[lido]** os 12 episódios lidos integralmente na construção desta skill — os de maior
-densidade de ensino. Os outros 57 foram varridos por extração automática atrás de analogias, bordões,
+Marcados com **[lido]** os 14 episódios lidos integralmente na construção desta skill — os de maior
+densidade de ensino. Os demais foram varridos por extração automática atrás de analogias, bordões,
 gatilhos de geração de ideia e momentos de veredito, que alimentaram
 [voz-e-estilo.md](voz-e-estilo.md), [analogias.md](analogias.md) e
 [maquina-de-ideias.md](maquina-de-ideias.md).
@@ -27,29 +27,90 @@ gatilhos de geração de ideia e momentos de veredito, que alimentaram
 | Overpost, projeto 1000 ads, ritual de marketing | [Como batemos 7 MILHÕES em 24h](https://www.youtube.com/watch?v=YcAsGGnYwcU) |
 | Marca de consumo, hype, sampling, colab | [Caso DOT](https://www.youtube.com/watch?v=5pX265p-NoY) |
 
-## Conteúdo OUT — participações em canais de terceiros
+## Conteúdo OUT — aparições em canais de terceiros
 
-A coleta original cobriu **apenas o canal dele** (conteúdo IN). Todas as participações em podcasts e
-entrevistas de outros canais ficaram de fora — o que é uma lacuna reconhecida, já que ele próprio
-trata o conteúdo OUT como metade da estratégia (ver [conteudo-e-marca.md](conteudo-e-marca.md)).
+A coleta original cobriu **apenas o canal dele** (conteúdo IN), deixando de fora todas as
+participações em podcasts, aulas e entrevistas — lacuna relevante, já que ele próprio trata o
+conteúdo OUT como metade da estratégia (ver [conteudo-e-marca.md](conteudo-e-marca.md)).
 
-Episódios OUT já incorporados:
+Uma varredura por busca no YouTube (5 variações de query, filtro ≥30 min, exclusão do canal próprio)
+encontrou **37 aparições longas**, somando **584.533 palavras** — mais que todo o canal dele
+(487.747). Todas coletadas, limpas, validadas e ordenadas por densidade de ensino.
 
-| Vídeo | Canal | Duração | Transcrição |
-|---|---|---|---|
-| [24 HORAS COM ALFREDO SOARES](https://www.youtube.com/watch?v=bXYnTmjo5AU) | PrimoCast | 109 min | 21.403 palavras **[lido]** |
+**Estado atual:** 2 lidos por inteiro e integrados. Os outros 35 estão mapeados e prontos para
+leitura numa próxima passada — a coleta é a parte barata, a leitura é o gargalo.
 
-**Por que esse episódio importa:** é a maior transcrição de todo o corpus (o maior do canal dele tem
-18.158 palavras) e trouxe material que não existia em nenhum vídeo do canal próprio — a autodefinição
-de *criativo matemático*, a máquina de conversão por distribuição de lead, a escada de serviço →
-riqueza, arbitragem de valor de ativos, e a anatomia completa de uma negociação fechada ao vivo.
+### Por que o OUT rende mais por minuto
 
-Formato de entrevista tende a extrair o que o canal próprio não extrai: um host faz pergunta
-estruturada e insiste; no canal próprio, ele conduz e frequentemente desvia para o convidado.
+Formato de entrevista extrai o que o canal próprio não extrai: o host faz pergunta estruturada e
+insiste. No canal dele, ele conduz e frequentemente passa a bola para o convidado. A aula do G4 Day
+tem densidade **7,9** contra mediana de **2,9** no canal próprio.
 
-**Lacuna que permanece:** não foi feita uma varredura sistemática de todas as aparições dele em
-canais de terceiros. Para ampliar, buscar por nome no YouTube, filtrar por duração longa e rodar o
-mesmo pipeline de `tools/`.
+Os dois lidos trouxeram material que não existia em nenhum vídeo do canal: a autodefinição de
+*criativo matemático*, a máquina de conversão por distribuição de lead, a escada serviço → riqueza,
+as condições satisfatórias, o financeiro como fábrica de lucro, e a distinção entre administrador e
+gestor comercial.
+
+### Mapa por densidade de ensino
+
+`·ᴳ⁴` marca canais do próprio ecossistema dele (G4 Podcasts / G4 Business). Nesses ele é
+frequentemente o **entrevistador**, não o entrevistado — e a densidade baixa da maioria confirma
+isso. Tratar com cuidado na atribuição de fala.
+
+| Densidade | Vídeo | Canal | Min | Palavras |
+|---|---|---|---|---|
+| 7.9 | [Como Vender Mais e Melhor / G4 Day](https://www.youtube.com/watch?v=bhOSSMFs1gI) | G4 Business ·ᴳ⁴ | 40 | 6.081 **[lido]** |
+| 6.9 | [Futuro das Vendas com Alfredo Soares](https://www.youtube.com/watch?v=ktsiui21RNc) | Instituto Lapidare | 79 | 12.417 |
+| 6.0 | [Como Pessoas Comuns Viram Autoridades na Internet / Alfr](https://www.youtube.com/watch?v=nfRsgSKD6p8) | BrunetCast | 41 | 7.383 |
+| 5.1 | [HOW TO BUILD AUTHORITY AND BECOME A REFERENCE IN YOUR DI](https://www.youtube.com/watch?v=q-nyNYyZw54) | O Mentor Podcast | 72 | 12.751 |
+| 4.9 | [O plano do G4 para sustentar 1 bilhão em vendas com cana](https://www.youtube.com/watch?v=A_8ytGJJ9t8) | Podcast Café com Ferri | 84 | 15.154 |
+| 4.6 | [O G4 Educação faz mesmo R$500 MILHÕES? / VERDADE NUA E C](https://www.youtube.com/watch?v=D1B_qZyV4O4) | Dener Lippert - O Cien | 51 | 11.541 |
+| 4.5 | [Alfredo Soares - Empreendedor, G4, VTEX No Podcast Os Na](https://www.youtube.com/watch?v=VMoR-AWKaTM) | Leda Nagle and Duda Na | 90 | 16.541 |
+| 4.5 | [O Playbook de 500 Milhões e a Verdade sobre Network (Alf](https://www.youtube.com/watch?v=lXPthJWClIE) | Resultado em Pauta | 105 | 19.014 |
+| 4.4 | [TALLIS + ALFREDO + NARDON - Flow #605](https://www.youtube.com/watch?v=caCON_uLJjQ) | Flow Podcast | 195 | 39.894 |
+| 4.4 | [EMPREENDEDORISMO: TALLIS GOMES, ALFREDO SOARES E BRUNO N](https://www.youtube.com/watch?v=ud418rRiD8I) | Inteligência Ltda | 175 | 35.001 |
+| 4.2 | [MARKETING DE INFLUÊNCIA QUE FUNCIONA (ALFREDO SOARES) / ](https://www.youtube.com/watch?v=SHCbWihWVNA) | Joel Jota | 136 | 22.837 |
+| 4.0 | [EP 09 / SEASON 2 - Alfredo Soares & The Art of Relating](https://www.youtube.com/watch?v=3LsZTe4Hrgw) | Martha Leonardis | 55 | 10.483 |
+| 3.9 | [HOW THE AGRO COUSINS WILL GO FROM R$10 MILLION TO R$60 M](https://www.youtube.com/watch?v=EAzfr09heQQ) | O Primo Rico and 4 mor | 59 | 11.921 |
+| 3.9 | [CONTROVERSIAL ADVICE TO DOUBLE YOUR COMPANY'S REVENUE (w](https://www.youtube.com/watch?v=fFU3Zl53ouw) | PrimoCast | 88 | 17.781 |
+| 3.8 | [BORA VENDER FEAT. ALFREDO SOARES / FodCast](https://www.youtube.com/watch?v=G_LuiOoKCiA) | Como Você Fez Isso? | 69 | 11.680 |
+| 3.8 | [Descubra os SEGREDOS da CARREIRA de ALFREDO SOARES e seu](https://www.youtube.com/watch?v=LaQc_OG8RAI) | Pablo Marçal | 64 | 11.598 |
+| 3.8 | [WAKE UP! Don't Let Any More Opportunities Slip By! - Alf](https://www.youtube.com/watch?v=Zcd94VpoTDo) | Podcast Café com Ferri | 92 | 17.305 |
+| 3.6 | [ALFREDO SOARES / FESTA DA FIRMA PODCAST #098](https://www.youtube.com/watch?v=xb9Y8QtmeE4) | Festa da Firma Podcast | 85 | 16.053 |
+| 3.6 | [A ESTRATÉGIA dos GRANDES EMPRESÁRIOS pra fazer EMPRESAS ](https://www.youtube.com/watch?v=zBMnbvgCoUU) | PrimoCast | 108 | 19.150 |
+| 3.3 | [BRIGAS, ACORDOS E LUCRO: COMO TER UMA SOCIEDADE DE SUCES](https://www.youtube.com/watch?v=HAbgtsxwvUc) | Conta Azul TV and G4 P ·ᴳ⁴ | 80 | 15.281 |
+| 3.0 | [THE ROUTINE OF BRAZIL'S #1 IN SALES AND NETWORKING / 24 ](https://www.youtube.com/watch?v=bXYnTmjo5AU) | PrimoCast and 2 more | 109 | 20.971 **[lido]** |
+| 3.0 | [ALFREDO SOARES - 2ª temporada Podcast 10 & Faixa #9](https://www.youtube.com/watch?v=prRmQFveJPE) | Diego Ribas | 87 | 14.849 |
+| 2.9 | [ONE OF THE BEST SALESPEOPLE IN BRAZIL? (Alfredo Soares) ](https://www.youtube.com/watch?v=K4ubYNrcPe4) | Joel Jota | 91 | 16.730 |
+| 2.9 | [WHAT NO ONE TEACHES YOU ABOUT BUILDING WEALTH (feat. Pri](https://www.youtube.com/watch?v=it9_oP4nJyo) | G4 Podcasts and 4 more ·ᴳ⁴ | 96 | 19.047 |
+| 2.9 | [ALFREDO SOARES – HOW I BUILT G4 EDUCATION](https://www.youtube.com/watch?v=pnjy_1JUKrs) | 🎙️ Lugar Certo Podcast | 69 | 12.931 |
+| 2.8 | [COMO ALAVANCAR AS VENDAS DO SEU RESTAURANTE - ALFREDO SO](https://www.youtube.com/watch?v=abLruiFacTw) | PODRJOTA PODCAST | 95 | 15.871 |
+| 2.8 | [How to deal with the instability of being an entrepreneu](https://www.youtube.com/watch?v=bY0ZqWaS55g) | Papo Íntimo por Sandra | 75 | 13.341 |
+| 2.8 | [O MERCADO DE RELÓGIOS DE LUXO COM KELVYN BENITES / EXTRE](https://www.youtube.com/watch?v=hRhbaIeZtDQ) | G4 Podcasts ·ᴳ⁴ | 90 | 18.442 |
+| 2.7 | [UM CPF FORTE SUSTENTA UM CNPJ DE EXCELÊNCIA COM GUTO GAL](https://www.youtube.com/watch?v=Gk4wLgyjeV4) | G4 Podcasts ·ᴳ⁴ | 90 | 17.828 |
+| 2.2 | [RENATO ALBANI: COMO TRANSFORMAR PIADA EM NEGÓCIO / EXTRE](https://www.youtube.com/watch?v=2vSCs7m4yjM) | G4 Podcasts ·ᴳ⁴ | 97 | 20.217 |
+| 2.2 | [A Mentalidade que Mudou Tudo no Empreendedorismo / Alfre](https://www.youtube.com/watch?v=iXSz1-FCPMo) | Guia-se Podcast | 63 | 9.991 |
+| 2.1 | [No Lucro / Alfredo Soares #86](https://www.youtube.com/watch?v=201syDNhy84) | CNN Pop | 47 | 9.317 |
+| 2.1 | [ALFREDO SOARES (Think big, execute even bigger!) / Negóc](https://www.youtube.com/watch?v=WVUv0Lh3yGw) | Podcast Negócios & Fam | 58 | 10.741 |
+| 2.0 | [FilmCast and Alfredo Soares/Alfredo Soares / Regarding t](https://www.youtube.com/watch?v=BcoX4zgVN8s) | Deep Story  | 118 | 18.559 |
+| 1.9 | [Alfredo Soares: Descubra a História de Sucesso no Empree](https://www.youtube.com/watch?v=X4hthVkeajw) | Guia-se Podcast | 64 | 10.846 |
+| 1.5 | [COMO THIAGO FINCH ENRIQUECEU COM O MARKETING DIGITAL](https://www.youtube.com/watch?v=uuGhATi2ApQ) | G4 Podcasts ·ᴳ⁴ | 62 | 10.105 |
+| 1.3 | [DOT ENERGY: A STARTUP QUE CRIOU UM NOVO TIPO DE ENERGÉTI](https://www.youtube.com/watch?v=ALAHhh6BBYk) | G4 Podcasts ·ᴳ⁴ | 74 | 14.881 |
+
+**Prioridade de leitura para a próxima passada** — topo de densidade, temas distintos:
+`Futuro das Vendas` (Instituto Lapidare, 6,9) · `Autoridades na Internet` (BrunetCast, 6,0) ·
+`Autoridade digital` (O Mentor, 5,1) · `Plano do G4 para 1 bilhão com canais` (Café com Ferri, 4,9) ·
+`Playbook de 500 Milhões e Network` (Resultado em Pauta, 4,5).
+
+Mais os dois episódios com **os três sócios juntos** (Flow #605 e Inteligência Ltda, ~75 mil palavras
+somadas) — únicos registros da dinâmica de sociedade contada pelas três vozes, algo que não existe no
+canal próprio.
+
+**Contraponto disponível:** `O G4 Educação faz mesmo R$500 MILHÕES?` (Dener Lippert, 4,6) é crítico,
+não didático. Vale ler como checagem dos números autodeclarados que este corpus registra.
+
+**Como atualizar:** os scripts em [`tools/`](../tools/) reproduzem a coleta. Para o conteúdo OUT,
+buscar o nome no YouTube, filtrar por duração e excluir o canal próprio antes de rodar o pipeline.
 
 ## Corpus completo
 

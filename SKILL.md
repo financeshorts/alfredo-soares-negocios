@@ -7,10 +7,13 @@ description: Aplica os frameworks de crescimento, marketing, vendas, canais, par
 
 ## O que é
 
-Conjunto de frameworks extraídos de 70 transcrições reais (~44h, ~509 mil palavras) do canal
-[@canaldoalfredosoares](https://www.youtube.com/@canaldoalfredosoares) — os quadros **O Advisor**,
-**Intercâmbio Intelectual** e as mentorias gravadas, onde ele faz consultoria ao vivo em empresas
-de R$ 5 milhões a R$ 3 bilhões.
+Conjunto de frameworks extraídos de **71 transcrições reais** (~45h, ~516 mil palavras) de duas frentes:
+
+- **O canal dele**, [@canaldoalfredosoares](https://www.youtube.com/@canaldoalfredosoares) — os quadros **O Advisor**, **Intercâmbio Intelectual** e as mentorias gravadas, onde faz consultoria ao vivo em empresas de R$ 5 milhões a R$ 3 bilhões
+- **Aparições em canais de terceiros** — aulas e entrevistas longas, onde um host pergunta e insiste. É de onde vieram os frameworks mais estruturados
+
+Outras **35 aparições externas** já estão coletadas e mapeadas por densidade, aguardando leitura —
+ver [references/fontes.md](references/fontes.md).
 
 O material é de gestão brasileira, prática e de PME/scale-up: linguagem direta, foco em caixa, canal e
 execução. Não é teoria de MBA.
@@ -34,13 +37,14 @@ Nunca dar recomendação sem os números. A sequência de perguntas que ele usa 
 ticket médio, CAC, LTV, ciclo de venda, canal principal, e **qual é a dor real** (a que o dono
 declara costuma ser sintoma, não causa).
 
-### 2. Rodar o caso pelos seis eixos
+### 2. Rodar o caso pelos sete eixos
 
 Carregar o reference do eixo relevante — não todos de uma vez:
 
 | Eixo | Reference | Usar quando |
 |---|---|---|
 | Arquitetura de crescimento | [references/arquitetura-de-crescimento.md](references/arquitetura-de-crescimento.md) | Foco vs pulverização, negócio vs empresa, sair do operacional, portfólio |
+| Crescimento previsível | [references/crescimento-previsivel.md](references/crescimento-previsivel.md) | "Cresci mas não sei como", meta de lucro, previsibilidade, estrutura comercial, remuneração |
 | Marketing e canais | [references/marketing-e-canais.md](references/marketing-e-canais.md) | ICP, funil, mapa de canais, orçamento, branding vs performance |
 | Vendas, parcerias e distribuição | [references/vendas-e-parcerias.md](references/vendas-e-parcerias.md) | Canal indireto, programa de parceiros, B2B enterprise, eventos como venda |
 | Campanhas, ofertas e lançamentos | [references/campanhas-e-lancamentos.md](references/campanhas-e-lancamentos.md) | Data sazonal, Black Friday, lançamento, promoção, plano pós-campanha |
