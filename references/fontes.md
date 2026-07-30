@@ -37,7 +37,7 @@ Uma varredura por busca no YouTube (5 variações de query, filtro ≥30 min, ex
 encontrou **37 aparições longas**, somando **584.533 palavras** — mais que todo o canal dele
 (487.747). Todas coletadas, limpas, validadas e ordenadas por densidade de ensino.
 
-**Estado atual:** 4 lidos por inteiro e integrados. Os outros 33 estão mapeados e prontos para
+**Estado atual:** 5 lidos por inteiro e integrados. Os outros 32 estão mapeados e prontos para
 leitura — a coleta é a parte barata, a leitura é o gargalo.
 
 **Critério de priorizacão:** episódios em que ele é o **único convidado** vêm primeiro. Nos dois com
@@ -51,12 +51,13 @@ Formato de entrevista extrai o que o canal próprio não extrai: o host faz perg
 insiste. No canal dele, ele conduz e frequentemente passa a bola para o convidado. A aula do G4 Day
 tem densidade **7,9** contra mediana de **2,9** no canal próprio.
 
-Os dois lidos trouxeram material que não existia em nenhum vídeo do canal: a autodefinição de
+Os lidos trouxeram material que não existia em nenhum vídeo do canal: a autodefinição de
 *criativo matemático*, a máquina de conversão por distribuição de lead, a escada serviço → riqueza,
 as condições satisfatórias, o financeiro como fábrica de lucro, a distinção entre administrador e
 gestor comercial, a tese de que autoridade é o que os outros falam de você, a regra de contratar o
-melhor profissional no principal canal de aquisição, e a escada de métricas de anúncio que termina no
-LTV por canal.
+melhor profissional no principal canal de aquisição, a escada de métricas de anúncio que termina no
+LTV por canal, e a tese de brand para IA — que marca forte muda quem escolhe o produto quando o
+cliente delega a compra a um assistente.
 
 ### Mapa por densidade de ensino
 
@@ -70,7 +71,7 @@ isso. Tratar com cuidado na atribuição de fala.
 | 6.9 | [Futuro das Vendas com Alfredo Soares](https://www.youtube.com/watch?v=ktsiui21RNc) | Instituto Lapidare | 79 | 12.417 **[lido]** |
 | 6.0 | [Como Pessoas Comuns Viram Autoridades na Internet / Alfr](https://www.youtube.com/watch?v=nfRsgSKD6p8) | BrunetCast | 41 | 7.383 **[lido]** |
 | 5.1 | [HOW TO BUILD AUTHORITY AND BECOME A REFERENCE IN YOUR DI](https://www.youtube.com/watch?v=q-nyNYyZw54) | O Mentor Podcast | 72 | 12.751 |
-| 4.9 | [O plano do G4 para sustentar 1 bilhão em vendas com cana](https://www.youtube.com/watch?v=A_8ytGJJ9t8) | Podcast Café com Ferri | 84 | 15.154 |
+| 4.9 | [O plano do G4 para sustentar 1 bilhão em vendas com cana](https://www.youtube.com/watch?v=A_8ytGJJ9t8) | Podcast Café com Ferri | 84 | 15.154 **[lido]** |
 | 4.6 | [O G4 Educação faz mesmo R$500 MILHÕES? / VERDADE NUA E C](https://www.youtube.com/watch?v=D1B_qZyV4O4) | Dener Lippert - O Cien | 51 | 11.541 |
 | 4.5 | [Alfredo Soares - Empreendedor, G4, VTEX No Podcast Os Na](https://www.youtube.com/watch?v=VMoR-AWKaTM) | Leda Nagle and Duda Na | 90 | 16.541 |
 | 4.5 | [O Playbook de 500 Milhões e a Verdade sobre Network (Alf](https://www.youtube.com/watch?v=lXPthJWClIE) | Resultado em Pauta | 105 | 19.014 |
