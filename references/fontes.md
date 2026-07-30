@@ -37,7 +37,7 @@ Uma varredura por busca no YouTube (5 variações de query, filtro ≥30 min, ex
 encontrou **37 aparições longas**, somando **584.533 palavras** — mais que todo o canal dele
 (487.747). Todas coletadas, limpas, validadas e ordenadas por densidade de ensino.
 
-**Estado atual:** 3 lidos por inteiro e integrados. Os outros 34 estão mapeados e prontos para
+**Estado atual:** 4 lidos por inteiro e integrados. Os outros 33 estão mapeados e prontos para
 leitura — a coleta é a parte barata, a leitura é o gargalo.
 
 **Critério de priorizacão:** episódios em que ele é o **único convidado** vêm primeiro. Nos dois com
@@ -54,8 +54,9 @@ tem densidade **7,9** contra mediana de **2,9** no canal próprio.
 Os dois lidos trouxeram material que não existia em nenhum vídeo do canal: a autodefinição de
 *criativo matemático*, a máquina de conversão por distribuição de lead, a escada serviço → riqueza,
 as condições satisfatórias, o financeiro como fábrica de lucro, a distinção entre administrador e
-gestor comercial, a tese de que autoridade é o que os outros falam de você, e a regra de contratar o
-melhor profissional no principal canal de aquisição.
+gestor comercial, a tese de que autoridade é o que os outros falam de você, a regra de contratar o
+melhor profissional no principal canal de aquisição, e a escada de métricas de anúncio que termina no
+LTV por canal.
 
 ### Mapa por densidade de ensino
 
@@ -66,7 +67,7 @@ isso. Tratar com cuidado na atribuição de fala.
 | Densidade | Vídeo | Canal | Min | Palavras |
 |---|---|---|---|---|
 | 7.9 | [Como Vender Mais e Melhor / G4 Day](https://www.youtube.com/watch?v=bhOSSMFs1gI) | G4 Business ·ᴳ⁴ | 40 | 6.081 **[lido]** |
-| 6.9 | [Futuro das Vendas com Alfredo Soares](https://www.youtube.com/watch?v=ktsiui21RNc) | Instituto Lapidare | 79 | 12.417 |
+| 6.9 | [Futuro das Vendas com Alfredo Soares](https://www.youtube.com/watch?v=ktsiui21RNc) | Instituto Lapidare | 79 | 12.417 **[lido]** |
 | 6.0 | [Como Pessoas Comuns Viram Autoridades na Internet / Alfr](https://www.youtube.com/watch?v=nfRsgSKD6p8) | BrunetCast | 41 | 7.383 **[lido]** |
 | 5.1 | [HOW TO BUILD AUTHORITY AND BECOME A REFERENCE IN YOUR DI](https://www.youtube.com/watch?v=q-nyNYyZw54) | O Mentor Podcast | 72 | 12.751 |
 | 4.9 | [O plano do G4 para sustentar 1 bilhão em vendas com cana](https://www.youtube.com/watch?v=A_8ytGJJ9t8) | Podcast Café com Ferri | 84 | 15.154 |
