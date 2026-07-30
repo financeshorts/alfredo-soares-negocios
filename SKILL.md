@@ -7,12 +7,12 @@ description: Aplica os frameworks de crescimento, marketing, vendas, canais, par
 
 ## O que é
 
-Conjunto de frameworks extraídos de **74 transcrições reais** (~49h, ~562 mil palavras) de duas frentes:
+Conjunto de frameworks extraídos de **75 transcrições reais** (~51h, ~581 mil palavras) de duas frentes:
 
 - **O canal dele**, [@canaldoalfredosoares](https://www.youtube.com/@canaldoalfredosoares) — os quadros **O Advisor**, **Intercâmbio Intelectual** e as mentorias gravadas, onde faz consultoria ao vivo em empresas de R$ 5 milhões a R$ 3 bilhões
 - **Aparições em canais de terceiros** — aulas e entrevistas longas, onde um host pergunta e insiste. É de onde vieram os frameworks mais estruturados
 
-Outras **32 aparições externas** já estão coletadas e mapeadas por densidade, aguardando leitura —
+Outras **31 aparições externas** já estão coletadas e mapeadas por densidade, aguardando leitura —
 ver [references/fontes.md](references/fontes.md).
 
 O material é de gestão brasileira, prática e de PME/scale-up: linguagem direta, foco em caixa, canal e
@@ -37,7 +37,7 @@ Nunca dar recomendação sem os números. A sequência de perguntas que ele usa 
 ticket médio, CAC, LTV, ciclo de venda, canal principal, e **qual é a dor real** (a que o dono
 declara costuma ser sintoma, não causa).
 
-### 2. Rodar o caso pelos nove eixos
+### 2. Rodar o caso pelos dez eixos
 
 Carregar o reference do eixo relevante — não todos de uma vez:
 
@@ -51,6 +51,7 @@ Carregar o reference do eixo relevante — não todos de uma vez:
 | Campanhas, ofertas e lançamentos | [references/campanhas-e-lancamentos.md](references/campanhas-e-lancamentos.md) | Data sazonal, Black Friday, lançamento, promoção, plano pós-campanha |
 | Conteúdo e marca | [references/conteudo-e-marca.md](references/conteudo-e-marca.md) | Marca pessoal, autoridade, YouTube/Instagram, influenciadores, colabs |
 | Dinheiro e precificação | [references/dinheiro-e-precificacao.md](references/dinheiro-e-precificacao.md) | Preço, assinatura, margem, dívida, modelo de negócio, riqueza pessoal |
+| Network e relacionamento | [references/network-e-relacionamento.md](references/network-e-relacionamento.md) | Acesso vs convivência vs conexão, comunidade, filtro de sócio, diferenciação |
 | IA e o novo jogo | [references/ia-e-o-novo-jogo.md](references/ia-e-o-novo-jogo.md) | Brand para IA, IA em vendas, marketing como BU, processo por tamanho de empresa |
 
 ### 3. Gerar as ideias antes de cortar

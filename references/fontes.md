@@ -37,7 +37,7 @@ Uma varredura por busca no YouTube (5 variações de query, filtro ≥30 min, ex
 encontrou **37 aparições longas**, somando **584.533 palavras** — mais que todo o canal dele
 (487.747). Todas coletadas, limpas, validadas e ordenadas por densidade de ensino.
 
-**Estado atual:** 5 lidos por inteiro e integrados. Os outros 32 estão mapeados e prontos para
+**Estado atual:** 6 lidos por inteiro e integrados. Os outros 31 estão mapeados e prontos para
 leitura — a coleta é a parte barata, a leitura é o gargalo.
 
 **Critério de priorizacão:** episódios em que ele é o **único convidado** vêm primeiro. Nos dois com
@@ -57,7 +57,8 @@ as condições satisfatórias, o financeiro como fábrica de lucro, a distinçã
 gestor comercial, a tese de que autoridade é o que os outros falam de você, a regra de contratar o
 melhor profissional no principal canal de aquisição, a escada de métricas de anúncio que termina no
 LTV por canal, e a tese de brand para IA — que marca forte muda quem escolhe o produto quando o
-cliente delega a compra a um assistente.
+cliente delega a compra a um assistente. E a escada acesso → convivência → conexão, que estrutura o
+eixo de network.
 
 ### Mapa por densidade de ensino
 
@@ -74,7 +75,7 @@ isso. Tratar com cuidado na atribuição de fala.
 | 4.9 | [O plano do G4 para sustentar 1 bilhão em vendas com cana](https://www.youtube.com/watch?v=A_8ytGJJ9t8) | Podcast Café com Ferri | 84 | 15.154 **[lido]** |
 | 4.6 | [O G4 Educação faz mesmo R$500 MILHÕES? / VERDADE NUA E C](https://www.youtube.com/watch?v=D1B_qZyV4O4) | Dener Lippert - O Cien | 51 | 11.541 |
 | 4.5 | [Alfredo Soares - Empreendedor, G4, VTEX No Podcast Os Na](https://www.youtube.com/watch?v=VMoR-AWKaTM) | Leda Nagle and Duda Na | 90 | 16.541 |
-| 4.5 | [O Playbook de 500 Milhões e a Verdade sobre Network (Alf](https://www.youtube.com/watch?v=lXPthJWClIE) | Resultado em Pauta | 105 | 19.014 |
+| 4.5 | [O Playbook de 500 Milhões e a Verdade sobre Network (Alf](https://www.youtube.com/watch?v=lXPthJWClIE) | Resultado em Pauta | 105 | 19.014 **[lido]** |
 | 4.4 | [TALLIS + ALFREDO + NARDON - Flow #605](https://www.youtube.com/watch?v=caCON_uLJjQ) | Flow Podcast | 195 | 39.894 |
 | 4.4 | [EMPREENDEDORISMO: TALLIS GOMES, ALFREDO SOARES E BRUNO N](https://www.youtube.com/watch?v=ud418rRiD8I) | Inteligência Ltda | 175 | 35.001 |
 | 4.2 | [MARKETING DE INFLUÊNCIA QUE FUNCIONA (ALFREDO SOARES) / ](https://www.youtube.com/watch?v=SHCbWihWVNA) | Joel Jota | 136 | 22.837 |
