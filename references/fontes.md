@@ -37,7 +37,7 @@ Uma varredura por busca no YouTube (5 variações de query, filtro ≥30 min, ex
 encontrou **37 aparições longas**, somando **584.533 palavras** — mais que todo o canal dele
 (487.747). Todas coletadas, limpas, validadas e ordenadas por densidade de ensino.
 
-**Estado atual:** 6 lidos por inteiro e integrados. Os outros 31 estão mapeados e prontos para
+**Estado atual:** 7 lidos por inteiro e integrados. Os outros 30 estão mapeados e prontos para
 leitura — a coleta é a parte barata, a leitura é o gargalo.
 
 **Critério de priorizacão:** episódios em que ele é o **único convidado** vêm primeiro. Nos dois com
@@ -58,7 +58,21 @@ gestor comercial, a tese de que autoridade é o que os outros falam de você, a 
 melhor profissional no principal canal de aquisição, a escada de métricas de anúncio que termina no
 LTV por canal, e a tese de brand para IA — que marca forte muda quem escolhe o produto quando o
 cliente delega a compra a um assistente. E a escada acesso → convivência → conexão, que estrutura o
-eixo de network.
+eixo de network. E os quatro potinhos, a analogia da Disney para gestão de expectativa e a correção
+de que "foco no cliente" ainda é o seu ponto de vista.
+
+### Falsos positivos da busca
+
+Checagem de presença (menções a ele + bordões característicos por transcrição) apontou **2 vídeos**
+onde ele quase não fala — a busca trouxe por citarem o nome, não por ele participar:
+
+| Vídeo | Sinal |
+|---|---|
+| `EAzfr09heQQ` — AGRO COUSINS | 1 bordão em 11.921 palavras |
+| `HAbgtsxwvUc` — BRIGAS, ACORDOS E LUCRO | 2 bordões em 15.281 palavras |
+
+Não usar como fonte. O episódio crítico `D1B_qZyV4O4` também menciona pouco — é análise **sobre** ele,
+não com ele; serve só como contraponto aos números autodeclarados.
 
 ### Mapa por densidade de ensino
 
@@ -78,7 +92,7 @@ isso. Tratar com cuidado na atribuição de fala.
 | 4.5 | [O Playbook de 500 Milhões e a Verdade sobre Network (Alf](https://www.youtube.com/watch?v=lXPthJWClIE) | Resultado em Pauta | 105 | 19.014 **[lido]** |
 | 4.4 | [TALLIS + ALFREDO + NARDON - Flow #605](https://www.youtube.com/watch?v=caCON_uLJjQ) | Flow Podcast | 195 | 39.894 |
 | 4.4 | [EMPREENDEDORISMO: TALLIS GOMES, ALFREDO SOARES E BRUNO N](https://www.youtube.com/watch?v=ud418rRiD8I) | Inteligência Ltda | 175 | 35.001 |
-| 4.2 | [MARKETING DE INFLUÊNCIA QUE FUNCIONA (ALFREDO SOARES) / ](https://www.youtube.com/watch?v=SHCbWihWVNA) | Joel Jota | 136 | 22.837 |
+| 4.2 | [MARKETING DE INFLUÊNCIA QUE FUNCIONA (ALFREDO SOARES) / ](https://www.youtube.com/watch?v=SHCbWihWVNA) | Joel Jota | 136 | 22.837 **[lido]** |
 | 4.0 | [EP 09 / SEASON 2 - Alfredo Soares & The Art of Relating](https://www.youtube.com/watch?v=3LsZTe4Hrgw) | Martha Leonardis | 55 | 10.483 |
 | 3.9 | [HOW THE AGRO COUSINS WILL GO FROM R$10 MILLION TO R$60 M](https://www.youtube.com/watch?v=EAzfr09heQQ) | O Primo Rico and 4 mor | 59 | 11.921 |
 | 3.9 | [CONTROVERSIAL ADVICE TO DOUBLE YOUR COMPANY'S REVENUE (w](https://www.youtube.com/watch?v=fFU3Zl53ouw) | PrimoCast | 88 | 17.781 |

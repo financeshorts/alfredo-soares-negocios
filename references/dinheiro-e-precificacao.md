@@ -150,6 +150,77 @@ fábrica de lucro em [crescimento-previsivel.md](crescimento-previsivel.md).)*
 
 ---
 
+## Os quatro potinhos
+
+Framework original dele para decidir onde alocar tempo e dinheiro, de
+[Jota Jota Podcast](https://www.youtube.com/watch?v=SHCbWihWVNA):
+
+```
+┌─ 1. MONETIZAR O PRESENTE ....... a receita de hoje
+├─ 2. CONSTRUIR SEGURANÇA ........ patrimônio
+├─ 3. INVESTIR NO EQUITY ......... esperança, o retorno lá na frente
+└─ 4. ALIMENTAR O PERTENCIMENTO .. ter tesão do que faz
+```
+
+> "Quando eu encontro uma coisa que preenche todos os quatro, é isso que eu tenho que fazer."
+
+O exemplo que ele dá com a própria agenda de palestra: monetiza o presente; parte do dinheiro vira
+imóvel (segurança); parte vira participação em startup (equity); e ele gosta de fazer (pertencimento).
+Os quatro potinhos preenchidos ao mesmo tempo.
+
+**Como usar no diagnóstico:** diante de uma atividade que consome muito tempo do dono, checar quais
+potinhos ela preenche. Uma que preenche só o primeiro é trabalho; uma que preenche três ou quatro é
+onde a agenda deveria estar concentrada.
+
+---
+
+## Nunca se guarda dinheiro antigo
+
+Lição que ele credita a um banqueiro em Nova York, e diz ter mudado a forma de decidir:
+
+> "Nunca se guarda dinheiro antigo. Quando você tem oportunidade de liquidar um dinheiro antigo, você liquida e troca por dinheiro novo."
+
+O raciocínio: dinheiro parado num ativo de um ciclo que já passou está exposto sem estar trabalhando.
+Quando aparece liquidez, converte-se em algo do ciclo atual.
+
+> "Por que o teu carro desvaloriza muito? Porque você vende no time errado."
+
+Vale igual para ação, participação e ativo imobilizado. **Timing de saída é parte do retorno** — não
+um detalhe posterior a ele.
+
+Ele conta ter vivido isso na prática: manteve posição depois de uma abertura de capital e viu o valor
+cair com a correção do mercado. E é honesto sobre o que amorteceu — ter construído outras frentes de
+receita e participações antes disso.
+
+---
+
+## Oxigenar a ambição
+
+> "A ambição precisa de oxigênio. Se você não oxigena a tua ambição, ela morre."
+
+E o método, que é o oposto de sonhar solto: **matematicalizar a ambição**.
+
+Ver algo que desperta desejo e, em vez de parar em *"deve ser bom ter isso"*, fazer a conta —
+quanto custa por mês, quantas pessoas exige manter, quanto o negócio precisa gerar no ano para
+aquilo fazer sentido.
+
+> "Aí você começa a dar forma pra tua ambição."
+
+### Felicidade é maturidade com a expectativa
+
+> "Eu não posso ter expectativa de quadradinho na barriga e gostar de comer [doce]."
+
+A definição dele: felicidade é o quanto você tem **maturidade** com as próprias expectativas.
+Frustração costuma ser expectativa sem compromisso correspondente — querer o resultado sem aceitar o
+processo.
+
+E a distinção que ele faz questão de marcar: **sonhar é ir além da expectativa**, e isso é saudável.
+O problema não é sonhar alto; é manter expectativa alta com comprometimento baixo.
+
+Complementa a *regra do novo zero*, acima — uma administra o dinheiro, a outra administra o desejo.
+
+---
+
 ## Humildade intelectual como ferramenta financeira
 
 Ele conta ter perseguido a meta de 100 imóveis até um mentor apontar que existiam instrumentos

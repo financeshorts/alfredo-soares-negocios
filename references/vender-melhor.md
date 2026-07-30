@@ -177,6 +177,83 @@ aquilo é possível para ele. E o fim da cadeia é o ativo mais valioso: cliente
 
 ---
 
+## "Foco no cliente" é frase errada
+
+Correção que ele faz em [Jota Jota Podcast](https://www.youtube.com/watch?v=SHCbWihWVNA), e que muda
+a pergunta inteira:
+
+> "Quando **você** foca em alguma coisa, é a **sua** percepção, é a **sua** experiência, é o que **você** acha certo."
+
+Foco no cliente ainda é o seu ponto de vista apontado para ele. A pergunta correta:
+
+**Qual é o foco DELE? Onde ELE vê valor?**
+
+```
+FOCO NO CLIENTE            O FOCO DO CLIENTE
+o que eu acho              onde ele vê valor
+que ele precisa        →   o que ele já faz
+minha percepção            a percepção dele
+```
+
+Liga direto com o exercício do diferencial, abaixo: o dono acha uma coisa, o funcionário acha outra,
+e o cliente percebe uma terceira.
+
+---
+
+## A empresa como plataforma de multicomunicação
+
+> "Não existe mais aquela coisa de ter um garoto-propaganda."
+
+Grandes marcas hoje têm embaixadores diferentes para produtos e gerações diferentes. A consequência
+para qualquer empresa:
+
+| Varia por | Exemplo |
+|---|---|
+| **Geração** | quem fala com o público jovem não é quem fala com o público de 50 |
+| **Plataforma** | o mesmo conteúdo não serve para rede profissional e rede de vídeo curto |
+| **Formato** | vídeo, texto e áudio pedem construções distintas |
+| **Horário** | quando aquele público está disponível para ouvir |
+
+> "A empresa que não se tornar uma plataforma de multicomunicação [fica para trás]."
+
+Reforça *canal diferente, persona diferente, produto diferente, oferta diferente*, acima.
+
+---
+
+## O caso do brigadeiro — com desfecho
+
+O exemplo mais didático dele sobre LTV, e desta vez com o resultado real. Um adolescente que vendia
+brigadeiro no semáforo perguntou como vender mais. A resposta:
+
+> "Você não tem que vender mais, tem que vender **melhor**."
+
+**A virada de enquadramento:** cada pessoa que compra um brigadeiro no sinal é lead potencial para
+uma **encomenda de festa**. Vender 200 no semáforo é estratégia de canal. Transformar aquilo em
+encomenda é estratégia de LTV.
+
+```
+1. fazer o cliente APROVAR o produto        ← a venda no sinal
+2. fazer ele COMPRAR de novo
+3. fazer ele fazer a PRIMEIRA ENCOMENDA     ← aqui começa o dinheiro
+```
+
+**O mecanismo:** entregar junto com o brigadeiro um cartão-voucher com desconto válido no primeiro
+pedido grande. O produto vendido vira captador de lead.
+
+**A otimização em cima disso:** qual horário converte mais, qual perfil de carro, homem ou mulher.
+E a leitura de comportamento por horário — de manhã é um motivo, depois do almoço a pessoa quer uma
+sobremesa pequena, no fim do dia ela quer recompensa e leva mais. A promoção agressiva muda conforme
+o horário.
+
+**O desfecho:** cerca de dois meses depois, o rapaz voltou dizendo ter fechado uma encomenda de
+centenas de brigadeiros para um casamento — de um cliente que havia conhecido no semáforo.
+
+E a razão econômica por trás de tudo:
+
+> "É muito mais fácil extrair valor do teu cliente do que conquistar um novo."
+
+---
+
 ## O cliente é o processo, não o resultado
 
 > "O cliente não é o resultado do processo. O cliente é o processo — é a fonte para criar estratégia."

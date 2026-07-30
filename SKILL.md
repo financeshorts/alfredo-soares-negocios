@@ -7,12 +7,12 @@ description: Aplica os frameworks de crescimento, marketing, vendas, canais, par
 
 ## O que é
 
-Conjunto de frameworks extraídos de **75 transcrições reais** (~51h, ~581 mil palavras) de duas frentes:
+Conjunto de frameworks extraídos de **76 transcrições reais** (~53h, ~604 mil palavras) de duas frentes:
 
 - **O canal dele**, [@canaldoalfredosoares](https://www.youtube.com/@canaldoalfredosoares) — os quadros **O Advisor**, **Intercâmbio Intelectual** e as mentorias gravadas, onde faz consultoria ao vivo em empresas de R$ 5 milhões a R$ 3 bilhões
 - **Aparições em canais de terceiros** — aulas e entrevistas longas, onde um host pergunta e insiste. É de onde vieram os frameworks mais estruturados
 
-Outras **31 aparições externas** já estão coletadas e mapeadas por densidade, aguardando leitura —
+Outras **30 aparições externas** já estão coletadas e mapeadas por densidade, aguardando leitura —
 ver [references/fontes.md](references/fontes.md).
 
 O material é de gestão brasileira, prática e de PME/scale-up: linguagem direta, foco em caixa, canal e

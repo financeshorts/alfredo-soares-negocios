@@ -159,6 +159,100 @@ Conecta com *comprometimento não se compra com esperança, se compra com dinhei
 
 ---
 
+## Os dois pilares de toda negociação
+
+De [Marketing de Influência que Funciona | Jota Jota Podcast](https://www.youtube.com/watch?v=SHCbWihWVNA).
+
+> "O segredo de qualquer negociação: **alinhamento de interesse** e **gestão de expectativa**."
+
+E o diagnóstico do que dá errado:
+
+> "As pessoas fecham o contrato não pelo potencial de retorno, mas pelo trabalho que elas vão ter."
+
+É aí que nasce a frustração — as duas partes assinaram medindo coisas diferentes.
+
+> "O sucesso de um contrato é a entrega de ambas as partes."
+
+### A analogia da Disney
+
+A melhor imagem do corpus sobre gestão de expectativa:
+
+```
+10 horas no parque
+├─ 8 horas de fila
+├─ 30 min comendo
+└─ ~1h em brinquedo
+
+...e a pessoa sai feliz. Por quê?
+```
+
+Porque cada etapa é gerenciada: placa com o tempo de espera, a fila que entra **dentro** do brinquedo
+(dá a sensação de que já começou), lixeira a cada trecho, armário para a bolsa, internet aberta.
+
+> "Não tem nada que você faça na Disney que ela não te avise quanto tempo vai demorar — porque ela valoriza o teu tempo."
+
+O contraste que ele usa: o consultório que atrasa **sem** dar previsão. Mesmo tempo de espera,
+experiência oposta.
+
+**Aplicação:** em qualquer entrega longa — obra, implantação, processo seletivo, laudo, projeto — o
+que gera satisfação não é encurtar o prazo, é **informar o prazo e marcar o progresso**.
+
+### Contrato é buraco em dupla
+
+> "Se você segurar as cartas na mão, o teu parceiro não vai te ajudar."
+
+Colocar as cartas na mesa — *"essa aqui eu consigo, essa aqui não dá"* — para o outro poder
+complementar.
+
+> "É um jogo muito mais de mostrar o jogo do que de ficar se valorizando. Pode ser que eu não feche os melhores negócios do mundo, mas eu fecho por mais tempo."
+
+### Qual é o meu peso, não qual é a minha entrega
+
+Ao precificar parceria, embaixador ou conselho, a pergunta não é o que **você** entrega — é **quanto
+aquilo pesa para o cliente**. Onde ele vê valor: no post? no uso do produto? na indicação? na presença
+no evento?
+
+E a composição segue a lógica de um plano de remuneração: **fixo + variável + premiação**.
+
+---
+
+## Arbitrar o valor do próprio dinheiro
+
+Como ele estrutura entrada em startup:
+
+> "O meu dinheiro é muito mais barato do que o meu tempo e o meu conselho."
+
+Mas com uma ressalva importante sobre por que ainda assim entra com dinheiro:
+
+> "O dinheiro é a principal assinatura de um contrato."
+
+Quem pagou tem pele em jogo — o que muda o comportamento das duas partes depois. Por isso ele entra
+com capital **e** negocia desconto no valuation, em vez de trocar tudo por permuta.
+
+Conecta com *gratidão antes de ganhar*, acima: quem não paga nada agora está transferindo risco.
+
+---
+
+## Renovar as esperanças
+
+Framework original dele, aplicável a contrato, sociedade e casamento:
+
+> "O ser humano precisa renovar as esperanças. A gente só suporta o presente se tiver esperança no futuro."
+
+**Na prática comercial:** toda renovação de contrato tem uma reunião de alinhamento de interesse e
+gestão de expectativa — o que ele chama de *renovação dos votos*. Não é renovar o papel; é redefinir
+o que cada lado espera daqui para frente.
+
+**A pergunta de diagnóstico:**
+
+> "Qual é a tua esperança hoje que te alimenta? Porque senão, daqui a pouco, o presente vai ficando chato."
+
+Vale para sócio desmotivado, funcionário-chave estagnado, cliente antigo que parou de comprar e para o
+próprio dono. Interesse e expectativa **mudam com o tempo** — quem tem contrato longo é quem renegocia
+os dois periodicamente.
+
+---
+
 ## Palestra é o começo da jornada, não o fim
 
 Prática que ele diz ter adotado há mais de uma década, quando ninguém fazia:
